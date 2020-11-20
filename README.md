@@ -1,2 +1,2 @@
 # GameOfLife
-Xamarin XML implementation of Conway's Game Of life
+Xamarin XAML implementation of Conway's Game Of life
